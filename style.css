@@ -1,0 +1,23 @@
+.navbar-nav  {
+    color: #1b0f0f; /* Default text color */
+    text-decoration: none;
+    padding: 8px;
+    transition: box-shadow 0.3s ease;
+}
+
+.navbar-nav a:hover {
+    box-shadow: 0 4px 8px rgba(12, 8, 8, 0.2); /* Add shadow on hover */
+}
+
+li{
+    float: left;
+}
+
+nav{
+    background-color: rgb(0, 6, 2);
+}
+
+container-fluid{
+    text-decoration-color: aliceblue;
+    text-decoration-style: solid;
+}
